@@ -15,10 +15,8 @@ Over time, the Generator learns to create increasingly realistic faces capable o
 
 # Generated Face Samples
 
-Place your generated image here:
-
 ```md
-<img width="662" height="262" alt="image" src="https://github.com/user-attachments/assets/cea5ae4c-5537-42df-8021-bb04d2b9e151" />
+<img width="662" height="262" alt="image" src="https://github.com/user-attachments/assets/46d4399b-fa13-481a-8ce5-bc9e8e4429b3" />
 
 ```
 
