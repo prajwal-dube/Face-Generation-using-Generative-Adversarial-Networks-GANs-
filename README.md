@@ -15,11 +15,7 @@ Over time, the Generator learns to create increasingly realistic faces capable o
 
 # Generated Face Samples
 
-```md
-<p align="center">
-  <img src="Output_Image.png" width="700">
-</p>
-```
+![Generated Output](Output_Image.png)
 
 The generated faces are completely synthetic and are created from random latent vectors after adversarial training.
 
